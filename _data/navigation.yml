@@ -20,14 +20,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog"
-    url: /blog/
+  - title: "Projects"
+    url: /projects/
     
   - title: "Resume"
     url: /resume/
     
-  - title: "Hobbies"
-    url: /hobbies/
+  # - title: "Hobbies"
+  #   url: /hobbies/
   # - title: "CV"
   #   url: /cv-json/
     
